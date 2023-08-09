@@ -1,0 +1,41 @@
+{
+    "draws": [
+      {
+        "id": 1,
+        "success": true,
+        "deck_id": "3p40paa87x90",
+        "shuffled": true,
+        "remaining": 52
+        
+      },
+      {
+          "id": 2,
+          "success": true,
+          "deck_id": "3p40paa87x90",
+          "cards": [
+            {
+              "code": "6H",
+              "image": "https://deckofcardsapi.com/static/img/6H.png",
+              "images": {
+                "svg": "https://deckofcardsapi.com/static/img/6H.svg",
+                "png": "https://deckofcardsapi.com/static/img/6H.png"
+              },
+              "value": "6",
+              "suit": "HEARTS"
+            },
+            {
+              "code": "5S",
+              "image": "https://deckofcardsapi.com/static/img/5S.png",
+              "images": {
+                "svg": "https://deckofcardsapi.com/static/img/5S.svg",
+                "png": "https://deckofcardsapi.com/static/img/5S.png"
+              },
+              "value": "5",
+              "suit": "SPADES"
+            }
+          ],
+          "remaining": 50
+        }
+    ]
+  }
+  
